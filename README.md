@@ -1,5 +1,5 @@
 # The Long Drive Chaos Mod Integration
-The M_ChaosMod.dll is from https://github.com/psp1g/TLD_ChaosMod_Frame
+The M_ChaosMod.dll is from https://github.com/JrMime/TLD_ChaosMod_Frame
 
 ## Setup instructions
 1. Install this - https://kolbenlp.gitlab.io/WorkshopTLDMods/
@@ -15,8 +15,8 @@ The M_ChaosMod.dll is from https://github.com/psp1g/TLD_ChaosMod_Frame
 7. Launch The Long Drive
 8. In game, press F2 to start/stop the mod. Enjoy!
 
-## For other streamers
-Open config.json in any text editor you want and change PSP1G to your own channel
+## Channel setup
+Open config.json in any text editor you want and change Jr_Mime to your own channel
 
 ## How does it work
 * This is an express.js server that will be listening for requests from the mod. It also hosts the OBS overlay, and updates votes as they come in.
